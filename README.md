@@ -1,1 +1,3 @@
-Meu primeiro repositório git!!
+# Meu repositório de exercícios
+
+olá
