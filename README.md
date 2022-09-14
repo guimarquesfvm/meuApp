@@ -1,3 +1,7 @@
 # Meu repositório de exercícios
 
-olá
+BORA BILL!!!
+
+# bla bla bla bla
+
+bla.
